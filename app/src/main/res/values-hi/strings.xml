@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">" बस जावा"</string>
+    <string name="quantity">" मात्रा"</string>
+    <string name="quantities">" मात्रा"</string>
+    <string name="just_an_image">कीमत</string>
+    <string name="price">" कीमत"</string>
+    <string name="name" translatable="false">" नाम"</string>
+    <string name="names">" नाम"</string>
+    <string name="toppings">" टॉपिंग"</string>
+    <string name="whipped_cream">" फेटी हुई मलाई"</string>
+    <string name="chocolate">" चॉकलेट"</string>
+    <string name="quan">" मात्रा:"</string>
+    <string name="Just_java_order_for">" बस जावा"</string>
+    <string name="order">आदेश</string>
+    <string name="add_whipped_cream">" \"व्हीप्ड क्रीम जोड़ें?\""</string>
+    <string name="add_chocolate">" \"चॉकलेट जोड़ें?\""</string>
+    <string name="total_dollar">" कुल: ₹"</string>
+    <string name="thanks">" धन्यवाद!"</string>
+
+    <string name="_0">0</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="space">" "</string>
+</resources>
